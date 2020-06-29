@@ -1,3 +1,3 @@
 # ADMINISTRATOR ACCOUNT PAGE LANDING
-using complete bootstrap
+#Developed using  bootstrap
 CLICK : https://anmol224.github.io/ADMINPAGE/
